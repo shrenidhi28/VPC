@@ -102,13 +102,13 @@ HTTP (port 80) → for web server access
 
 ### Screenshot 1: VPC and Subnet Details
 
-<img width="1914" height="913" alt="Screenshot 2026-02-24 105947" src="https://github.com/user-attachments/assets/0af1e33d-45ea-4bb1-8534-03e284d05dac" />
+<img width="1034" height="458" alt="image" src="https://github.com/user-attachments/assets/46d33fe0-c650-4a62-9785-c5fe1c0e5c29" />
 
 
 
 ### Screenshot 2: EC2 Instance Running
 
-<img width="1902" height="911" alt="Screenshot 2026-02-24 111106" src="https://github.com/user-attachments/assets/ee98e4b0-21b1-4eaf-a0b5-523bf008bfd4" />
+<img width="1048" height="495" alt="image" src="https://github.com/user-attachments/assets/26c69ae5-66ac-40c1-9beb-a66145b5df2e" />
 
 
 
